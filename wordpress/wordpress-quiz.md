@@ -16,7 +16,7 @@
 
 - [ ] HackerOne
 - [ ] Redmine
-- [ ] Trac
+- [x] Trac
 - [ ] GitHub Issues
 
 #### Q4. The REST API is a simple way to get data in and out of WordPress over HTTP. Applications using the REST API should be written in which programming language?
